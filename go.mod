@@ -9,5 +9,3 @@ require (
 	github.com/miekg/dns v1.1.48
 	gopkg.in/yaml.v2 v2.4.0
 )
-
-replace github.com/imlonghao/geo master => github.com/polyscale/geo main
