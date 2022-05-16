@@ -10,4 +10,4 @@ require (
 	gopkg.in/yaml.v2 v2.4.0
 )
 
-replace github.com/imlonghao/geo v0.0.0-20210222174851-6336f8939108 => github.com/polyscale/geo v0.0.0-20210222174851-6336f8939108
+replace github.com/imlonghao/geo master => github.com/polyscale/geo main
