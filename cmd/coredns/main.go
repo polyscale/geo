@@ -4,7 +4,7 @@ import (
 	_ "github.com/coredns/coredns/plugin/file"
 	_ "github.com/coredns/coredns/plugin/log"
 	_ "github.com/coredns/coredns/plugin/reload"
-	_ "github.com/imlonghao/geo"
+	_ "github.com/polyscale/geo"
 
 	"github.com/coredns/coredns/core/dnsserver"
 	"github.com/coredns/coredns/coremain"
