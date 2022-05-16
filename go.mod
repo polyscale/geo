@@ -1,4 +1,4 @@
-module github.com/imlonghao/geo
+module github.com/polyscale/geo
 
 go 1.14
 
