@@ -9,7 +9,7 @@ import (
 	"io/ioutil"
 	"time"
 
-	"github.com/caddyserver/caddy"
+	"github.com/coredns/caddy"
 	"gopkg.in/yaml.v2"
 )
 
